@@ -94,7 +94,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 24. TVONE HD
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybC91XLLlk5bTQ6m1v6Kqbkc)/dm/3/x619221/s/live-2.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/yt?id=XdZ2nJvmfrI
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 25. TVONE
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8 
