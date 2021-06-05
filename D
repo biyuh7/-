@@ -62,7 +62,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_734_480p/index.m3u8
 http://gumisasak.site/USEETV/master.m3u8?id=trans7
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 17 . Net.TV HD
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
+http://gumisasak.site/USEETV/master.m3u8?id=net
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 18. Net.TV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_480p/index.m3u8
