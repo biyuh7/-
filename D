@@ -127,6 +127,9 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="lokal",  SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="",group-title="lokal", DTIVI 
+http://dtivi.siar.us/dtivi/live/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Lokal", 32. MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
