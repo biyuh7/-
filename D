@@ -190,10 +190,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7619.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sport", TV Champion 1
-http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=usee-champion1
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion1
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sport", TV Champion 2
-http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=usee-champion2
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", TV Champion 3
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6786.m3u8
