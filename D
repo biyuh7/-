@@ -72,7 +72,7 @@ http://cdn4.mbahnunungonline.net/m3u8/id/6cdb3402d11f58d.m3u8
 http://cdn4.mbahnunungonline.net/m3u8/3f58825fe229a8f.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", 20. TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 21. RTV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
