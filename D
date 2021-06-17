@@ -81,16 +81,22 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="Lokal", HBO
-https://dl.dropboxusercontent.com/s/8vsk5mh6hhab2x2/01_trinity_hbo.m3u8?dl=0
-
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="Lokal", HBO Hits
-https://dl.dropbox.com/s/l1fft14x0qsdib5/03_UT_hbohits.m3u8?dl=0
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_family.png" group-title="Lokal", HBO Family
-https://dl.dropbox.com/s/3na4bb4pnb2f2jt/04_UT_hbofamily.m3u8?dl=0
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="Lokal", HBO Signature
-https://dl.dropbox.com/s/58c12tswe2q2ot9/05_UT_hbosignature.m3u8?dl=0
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499186_ico.png" group-title="Lokal",Red By HBO
+https://raw.githubusercontent.com/angahjee1994/tv/master/red.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Lokal",CINEMAX
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 22. Kompas TV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
