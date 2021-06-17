@@ -6,13 +6,13 @@ http://gumisasak.site/USEETV/master.m3u8?id=dunialain
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7619_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 1. SCTV HD
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel-avc1_1000000=6-mp4a_66000_eng=2.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=sctv
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 3. Indosiar HD
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen-avc1_1000000=6-mp4a_66000_eng=2.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 4. Indosiar
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=indosiar
@@ -48,13 +48,13 @@ https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 13. TRANS TV HD
-https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 14. TRANS TV
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=transtv
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 15. TRANS 7 HD
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 16. TRANS 7
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=trans7
@@ -63,7 +63,7 @@ http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=trans7
 http://gumisasak.site/USEETV/master.m3u8?id=trans7
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 17 . Net.TV HD
-http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 18. Net.TV
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=net
@@ -75,7 +75,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 21. RTV HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 21. RTV 
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
