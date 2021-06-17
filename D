@@ -6,7 +6,7 @@ http://gumisasak.site/USEETV/master.m3u8?id=dunialain
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_7619_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 1. SCTV HD
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+https://livestreaming-google-etslive.vidio.com/vp9/204_stream.mpd
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_480p/index.m3u8
@@ -32,7 +32,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 9. GTV HD
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+https://livestreaming-google-etslive.vidio.com/vp9/778_stream.mpd
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 10. GTV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_480p/index.m3u8
