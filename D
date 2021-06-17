@@ -60,7 +60,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=trans7
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", TRANS 7 (MotoGP)
-http://gumisasak.site/USEETV/master.m3u8?id=trans7
+http://185.238.0.145:1313/c/ku/see/i.MiBiFUN?a=trans7&b=734&c=480p
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 17 . Net.TV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
