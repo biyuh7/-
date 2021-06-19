@@ -3,7 +3,7 @@
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=dunialain
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7619.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6852
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 1. SCTV HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
