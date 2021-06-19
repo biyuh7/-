@@ -33,7 +33,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 9. GTV HD
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-778
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 10. GTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
