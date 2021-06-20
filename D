@@ -57,7 +57,7 @@ http://home-tv.my.id/RHS/04juni21.m3u8?channel=usee-transtv
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-734.m3u8
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 16. TRANS 7
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=usee-trans7
+https://mkctv.my.id/jarwo/cucok.m3u8?id=trans7&bandwidth=b894100&sync=0
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", TRANS 7 (MotoGP)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/cdd283c9d3d43b5.m3u8
