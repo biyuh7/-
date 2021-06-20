@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499186_ico.png" group-title="Lokal",Red By HBO
-https://raw.githubusercontent.com/angahjee1994/tv/master/red.m3u8
+https://tv.aryakrida.com/live/hbo/RED.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Lokal",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
