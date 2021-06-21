@@ -9,25 +9,25 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6852
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
+http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-204
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 3. Indosiar HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 4. Indosiar
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8
+https://tv.aryakrida.com/live/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Lokal", Citra Muslim
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6678
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 5. RCTI HD
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
+https://tv.aryakrida.com/live/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 6. RCTI
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 7. MNCTV HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec1028.m3u8
+http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-870
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 8. MNCTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
@@ -117,10 +117,10 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-777
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 28. ANTV
-http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160572?play_token=W4FiIcljhb&token=ShdcBRFREglDAQZWA1EIUgYFAVoLWwIHA1FdVgVWDVZVDANQVQxVUFJGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEGAgQYRhJQVBFbRgAHUwcMFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAUAAhtPGlpcQggRS0wVWBt5dRcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAHCAQAEUQ= 
+https://tv.aryakrida.com/live/antv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 29. ANTV HD
-http://210.210.155.35/session/1987d35c-2f13-11eb-b7c6-be93b4dc16ad/qwr9ew/s/s07/02.m3u8
+http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160572?play_token=W4FiIcljhb&token=ShdcBRFREglDAQZWA1EIUgYFAVoLWwIHA1FdVgVWDVZVDANQVQxVUFJGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEGAgQYRhJQVBFbRgAHUwcMFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAUAAhtPGlpcQggRS0wVWBt5dRcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAHCAQAEUQ= 
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 30. ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/03.m3u8
