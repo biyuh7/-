@@ -121,6 +121,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 27. Metro TV
 http://gpc.my.id/vidio/metrotv.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=777
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 28. ANTV
 https://tv.aryakrida.com/live/antv.m3u8
