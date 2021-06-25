@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="Lokal", (DG) DUNIA LAIN
-http://topwin-tv.my.id/2/master.m3u8?id=dunialain
- 
+https://radenroro.net/RHS/yang_maling_bangsatmpd.m3u8?channel=dunialain
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
 
@@ -9,8 +9,8 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
- 
+http://gpc.my.id/vidio/indosiar.m3u8
+
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 3. Indosiar HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
 
@@ -158,6 +158,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="Lokal", 36. BERITA SATU HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
+http://gpc.my.id/vidio/beritasatu.m3u8
 
 #EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", 37. JAK TV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
