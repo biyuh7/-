@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="Lokal", (DG) DUNIA LAIN
 https://radenroro.net/RHS/yang_maling_bangsatmpd.m3u8?channel=dunialain
+http://gpc.my.id/usee/dunialain.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
@@ -83,6 +84,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb5
 http://gpc.my.id/vidio/rtv.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 21. RTV 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+http://gpc.my.id/usee/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" group-title="Lokal", HBO
 https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
@@ -118,7 +120,7 @@ http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 27. Metro TV
-http://topwin-tv.my.id/2/master.m3u8?id=metrotv
+http://gpc.my.id/vidio/metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 28. ANTV
 https://tv.aryakrida.com/live/antv.m3u8
@@ -192,10 +194,10 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7619
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sport", TV Champion 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
+http://gpc.my.id/usee/champion1.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sport", TV Champion 2
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion2
+http://gpc.my.id/usee/champion2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", TV Champion 3
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6786.m3u8
