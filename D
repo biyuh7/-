@@ -9,7 +9,7 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6852
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-204
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 3. Indosiar HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
@@ -27,7 +27,7 @@ https://tv.aryakrida.com/live/rcti.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 7. MNCTV HD
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-870
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 8. MNCTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
