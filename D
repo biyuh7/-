@@ -115,7 +115,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 24. TVONE HD
-http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160668?play_token=aH9dft2lFi&token=ShdcBRFREglDUFdQWlVcVgQFXVYJCQFRXlxcDAJSCwRVA1ZWBwhSVVFGHxERR0tSUF5mClwbCQZQVQ8DD04bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEIAg0YRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHcHEVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg==
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 25. TVONE
 http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
@@ -131,10 +131,7 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=777
 https://tv.aryakrida.com/live/antv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 29. ANTV HD
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 30. ANTV
-http://210.210.155.35:80/qwr9ew/s/s07/03.m3u8
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon-avc1_499968=4.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", 31. JTV
 http://cdn4.mbahnunungonline.net/m3u8/33a7e98c230ae2f.m3u8
