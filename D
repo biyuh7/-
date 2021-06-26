@@ -390,6 +390,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
 https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-665
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
+https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=usee-sctv
+
 
 
 
