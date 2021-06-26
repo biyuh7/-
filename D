@@ -10,9 +10,12 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV
 http://gpc.my.id/vidio/sctv.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 3. Indosiar HD
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-205.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 4. Indosiar
 https://tv.aryakrida.com/live/indosiar.m3u8
