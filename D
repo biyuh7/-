@@ -397,5 +397,6 @@ https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-665
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
 https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/ShfXsMuV/gerbil/734_gerbil/playlist.m3u8
 
