@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="Lokal", (DG) DUNIA LAIN
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
@@ -391,7 +392,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-665
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
+http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=dunialain&bandwidth=b894100&sync=0
 
 
 
