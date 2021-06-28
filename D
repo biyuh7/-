@@ -117,9 +117,11 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-874.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 23. Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+http://gpc.my.id/vidio/kompas-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 24. TVONE HD
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4.m3u8
+https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 25. TVONE
 http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
@@ -136,6 +138,7 @@ https://tv.aryakrida.com/live/antv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 29. ANTV HD
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon-avc1_499968=4.m3u8
+https://akamai.mncnow.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal", 31. JTV
 http://cdn4.mbahnunungonline.net/m3u8/33a7e98c230ae2f.m3u8
@@ -392,7 +395,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-665
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
-http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=dunialain&bandwidth=b894100&sync=0
+https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 
 
 
