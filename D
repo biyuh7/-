@@ -182,10 +182,11 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5415
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6482.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="Lokal",39. Mytv
+http://gpc.my.id/vidio/mytv.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6711.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",40. Magna TV 
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+http://gpc.my.id/vidio/magna-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",40. Magna TV 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
