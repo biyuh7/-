@@ -197,8 +197,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
  
 #EXTINF:-1 tvg-logo="https://static-web-prod-vidio.akamaized.net/assets/logo/og-image-e7efa10e51acf77c67c3c5c46908bbb1091ab3a469b3ccd4c7ba9a26b52c8345.jpg" group-title="Lokal", MUSICA VIDIO
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=7619
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7619.m3u8
+http://gpc.my.id/vidio/musica.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sport", TV Champion 1
 http://gpc.my.id/vidio/champion-tv-1.m3u8
