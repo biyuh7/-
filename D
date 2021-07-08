@@ -94,7 +94,7 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-875.m3u8
 http://gpc.my.id/vidio/net-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 29. Net.TV 3
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=nettv
+http://dituduhmaling.xyz/US33T4/net.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", 30. TVRI 1
 http://gpc.my.id/vidio/tvri.m3u8
@@ -103,13 +103,13 @@ http://gpc.my.id/vidio/tvri.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-6441.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", 32. TVRI 3
-http://topwin-tv.my.id/2/master.m3u8?id=tvri
+http://dituduhmaling.xyz/US33T4/tvri.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 33. RTV 1
 http://gpc.my.id/vidio/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 34. RTV 2
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-1561.m3u8
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/ShfXsMuV/gerbil/1561_gerbil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", 35. RTV 3
 http://dituduhmaling.xyz/US33T4/rtv.m3u8
@@ -425,7 +425,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 https://radenroro.net/RHS/yang_maling_bangsat.m3u8?channel=vidio-665
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
-https://tv.aryakrida.com/live/dunialain.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=nettv
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
 http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/ShfXsMuV/gerbil/734_gerbil/playlist.m3u8
