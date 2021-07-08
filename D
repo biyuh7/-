@@ -33,16 +33,17 @@ http://gpc.my.id/vidio/rcti.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-665.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 9. RCTI 3
-http://goldenlivektv.com/Comot_Lagi_Bae/Rcti_channel_ktv.m3u8
+https://co-vision.xyz/DEVANDRA/master.m3u8?id=rcti
+https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 10. MNCTV 1
 http://gpc.my.id/vidio/mnc.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 11. MNCTV 2
-http://goldenlivektv.com/Comot_Lagi_Bae/Mnctv_channel_ktv.m3u8
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 12. MNCTV 3
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
+https://goldenlivektv.com/Kang.Surya/Channel_Mncmetube.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 13. GTV 1
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
@@ -52,7 +53,7 @@ http://gpc.my.id/vidio/gtv.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 15. GTV 3
-http://goldenlivektv.com/Comot_Lagi_Bae/Gtv_channel_ktv.m3u8
+https://goldenlivektv.com/Kang.Surya/Channel_Gtvmetube.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", 16. iNEWS 1
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5409.m3u8
@@ -71,9 +72,10 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-733.m3u8
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 21. TRANS TV 2
-http://gpc.my.id/vidio/transtv.m3u8
+http://gpc.my.id/vidio/trans-tv.m3u8
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 22. TRANS TV 3
+http://dituduhmaling.xyz/US33T4/transtv.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=transtv
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 23. TRANS 7 1
