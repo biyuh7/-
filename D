@@ -3,7 +3,7 @@
 http://topwin-tv.my.id/2/master.m3u8?id=dunialain
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/X2ISm5LSjgKupMtdZkqTb-FNGhE=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Lokal", Al Quran Al Kareem TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6852
+http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/ShfXsMuV/gerbil/6852_gerbil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 1. SCTV 1
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
@@ -45,7 +45,6 @@ http://ruangwaktu.xyz/kampret-loc/local/ruangtv-870.m3u8
 https://goldenlivektv.com/Kang.Surya/Channel_Mnctvmetube.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 13. GTV 1
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 http://gpc.my.id/vidio/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 14. GTV 2
