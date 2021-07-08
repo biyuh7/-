@@ -140,26 +140,26 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 http://gpc.my.id/vidio/kompas-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 44. Kompas TV 3
-http://goldenlivektv.com/Comot_Lagi_Bae/Kompastv_channel_ktv.m3u8
+http://dituduhmaling.xyz/US33T4/kompastv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 45. TVONE 1
-https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
+http://gpc.my.id/ytlive/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 46. TVONE 2
-http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
+https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 47. TVONE 3
-http://gpc.my.id/ytlive/tvone.m3u8
+https://iptv-bm8fp89b8-mwafa.vercel.app/api/dm?id=k2uDgtBgdyXR1AoH4XD
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 48. Metro TV 1
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-777.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 49. Metro TV 2
-http://gpc.my.id/vidio/metrotv.m3u8
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=777
+http://gpc.my.id/vidio/metro-tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 50. Metro TV 3
-http://goldenlivektv.com/Comot_Lagi_Bae/Metrotv_channel_ktv.m3u8
+http://dituduhmaling.xyz/US33T4/metrotv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=metro
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 51. ANTV 1
 https://tv.aryakrida.com/live/antv.m3u8
@@ -208,7 +208,6 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5415.m3u8
 
 #EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", 66. JAK TV 2
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5415
 http://gpc.my.id/vidio/jaktv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="Lokal", 67. Daai TV
@@ -228,21 +227,27 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="Lokal", 72. O Channel 2
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=206
- 
+http://gpc.my.id/vidio/ochannel.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-web-prod-vidio.akamaized.net/assets/logo/og-image-e7efa10e51acf77c67c3c5c46908bbb1091ab3a469b3ccd4c7ba9a26b52c8345.jpg" group-title="Lokal", 73. MUSICA VIDIO
 http://gpc.my.id/vidio/musica.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sport", 74. TV Champion 1
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sport", 75. TV Champion 2
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sport", 75. TV Champion 1
+http://topwin-tv.my.id/2/master.m3u8?id=champion1
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sport", 76. TV Champion 2
 http://gpc.my.id/vidio/champion-tv-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", 76. TV Champion 3
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sport", 77. TV Champion 2
+http://topwin-tv.my.id/2/master.m3u8?id=champion2
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", 78. TV Champion 3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Lokal", 77. NTV
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Lokal", 79. NTV
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-7432.m3u8
 
 ******
