@@ -426,11 +426,10 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sy
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=transtv
+http://163.172.50.58:8090/Calcio/13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=trans7
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_3.m3u8?thejoelc
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="TES", DANDI GUS
-http://peytv.fun/play/6_dsy84i_0@peytv.fun/03596756/ShfXsMuV/gerbil/734_gerbil/playlist.m3u8
-
+https://d9ik91y6wmd8o.cloudfront.net/out/v1/a3feb184102249429b6d8f0541a23e14/index_3.m3u8
