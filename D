@@ -44,7 +44,7 @@ https://tv.mbed.cc/mnc.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 12. MNCTV 3
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-870
-#https://goldenlivektv.com/Kang.Surya/Channel_Mnctvmetube.m3u8
+https://goldenlivektv.com/Kang.Surya/Channel_Mnctvmetube.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 13. GTV 1
 http://gpc.my.id/vidio/gtv.m3u8
