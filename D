@@ -12,6 +12,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-204
 http://gpc.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 3. SCTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 4. Indosiar 1
@@ -21,6 +22,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-205
 http://gpc.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 6. Indosiar 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Lokal", Citra Muslim
@@ -30,6 +32,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6678
 http://gpc.my.id/vidio/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 8. RCTI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/rcti.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", 9. RCTI 3
@@ -40,6 +43,7 @@ https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
 http://gpc.my.id/vidio/mnc.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 11. MNCTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/mnc.m3u8
 
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", 12. MNCTV 3
@@ -50,6 +54,7 @@ https://goldenlivektv.com/Kang.Surya/Channel_Mnctvmetube.m3u8
 http://gpc.my.id/vidio/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 14. GTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", 15. GTV 3
@@ -57,6 +62,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-778
 https://goldenlivektv.com/Kang.Surya/Channel_Gtvmetube.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", 16. iNEWS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/inews.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="Lokal", 17. iNEWS 2
@@ -69,6 +75,7 @@ https://goldenlivektv.com/Kang.Surya/Channel_Inewsmetube.m3u8
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 20. TRANS TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/transtv.m3u8
 
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", 21. TRANS TV 2
@@ -78,6 +85,7 @@ http://gpc.my.id/vidio/trans-tv.m3u8
 http://gpc.my.id/usee/transtv.m3u8
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 23. TRANS 7 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/trans7.m3u8
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", 24. TRANS 7 2
@@ -90,6 +98,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=trans7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 27. Net.TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/net.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", 28. Net.TV 2
@@ -102,6 +111,7 @@ http://dituduhmaling.xyz/US33T4/net.m3u8
 http://gpc.my.id/vidio/tvri.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", 31. TVRI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/tvri.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", 32. TVRI 3
@@ -135,6 +145,7 @@ https://tv.aryakrida.com/live/hbo/RED.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 42. Kompas TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/kompastv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal", 43. Kompas TV 2
@@ -151,9 +162,11 @@ http://gpc.my.id/ytlive/tvone.m3u8
 https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="Lokal", 47. TVONE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/tvone.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 48. Metro TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Lokal", 49. Metro TV 2
@@ -167,6 +180,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=metro
 https://tv.aryakrida.com/live/antv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 52. ANTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/antv.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="Lokal", 53. ANTV 3
@@ -207,6 +221,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://gpc.my.id/vidio/beritasatu.m3u8
 
 #EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", 65. JAK TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/jaktv.m3u8
 
 #EXTINF:-1 tvg-id="jaktv" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal", 66. JAK TV 2
@@ -226,6 +241,7 @@ http://gpc.my.id/vidio/magna-tv.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="Lokal", 71. O Channel 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/o-channel.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d4a5d318833039.5603f2e46a6b8.jpg" group-title="Lokal", 72. O Channel 2
