@@ -12,8 +12,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-204
 http://gpc.my.id/vidio/sctv.m3u8
 
 #EXTINF:0 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 3. SCTV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tv.mbed.cc/sctv.m3u8
+https://tv.mbed.cc/sctv.m3u8?|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 4. Indosiar 1
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-205
@@ -22,8 +21,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-205
 http://gpc.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", 6. Indosiar 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tv.mbed.cc/indosiar.m3u8
+https://tv.mbed.cc/indosiar.m3u8?|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZTeKx3OtwGzngONntJqXwAuLYrI=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Lokal", Citra Muslim
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6678
