@@ -11,7 +11,7 @@ https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-204
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 2. SCTV 2
 http://gpc.my.id/vidio/sctv.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 3. SCTV 3
+#EXTINF:0 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", 3. SCTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tv.mbed.cc/sctv.m3u8
 
